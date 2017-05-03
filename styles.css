@@ -7,13 +7,21 @@ p.Beer {
 	background-color:orange;
 }
 p.Bev {
-	background-color:Dodgerblue;
-	font-style:times new roman;
+	background-color:blue;
+	font-style:times;
+}
+footer {
+	text-align: center;
+	padding-left:50px;
+}
+@media screen and (max-width: 500px) {
+  body {
+    background-color: red;
+  }
 }
 body {
 	background-color: grey;
 	padding:20px;
-	background-image:url(Blue_Sky.jpg);
 }
 img {
 	border:2px solid;
@@ -22,13 +30,7 @@ img {
 }
 table {
 	margin-left:5%;
+	background-image:url(Blue_Sky.jpg);
 }
 ul {
 	margin-left:3.3%;
-#Milwaukee {
-	font-size:24px;
-}
-footer {
-	text-align: center;
-	display: inline-block;
-}
