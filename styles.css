@@ -13,7 +13,7 @@ p.Bev {
 body {
 	background-color: grey;
 	padding:20px;
-	background-image:url(Milwaukee_City.jpg);
+	background-image:url(Blue_Sky.jpg);
 }
 img {
 	border:2px solid;
@@ -27,5 +27,5 @@ ul {
 	margin-left:3.3%;
 }
 #title {
-	border:2px Solid;
+	border:2px;
 }
