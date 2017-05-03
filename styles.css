@@ -3,6 +3,18 @@ h1 {
 	font-weight:bold;
 	font-size: 48px;
 }
+#Milwaukee {
+	font-style: italic;
+}
+a {
+	/* unvisited link */
+    color: red;
+}
+
+/* visited link */
+a {
+    color: green;
+}
 p.Beer {
 	background-color:orange;
 }
@@ -14,9 +26,9 @@ footer {
 	text-align: center;
 	padding-left:50px;
 }
-@media screen and (max-width: 500px) {
+@media screen and (max-width:500px) {
   body {
-    background-color: red;
+    background-color:lightgreen;
   }
 }
 body {
@@ -34,3 +46,4 @@ table {
 }
 ul {
 	margin-left:3.3%;
+}
