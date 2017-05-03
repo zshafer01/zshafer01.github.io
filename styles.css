@@ -26,11 +26,6 @@ footer {
 	text-align: center;
 	padding-left:50px;
 }
-@media screen and (max-width:500px) {
-  body {
-    background-color:lightgreen;
-  }
-}
 body {
 	background-color: grey;
 	padding:20px;
@@ -46,4 +41,9 @@ table {
 }
 ul {
 	margin-left:3.3%;
+}
+@media screen and (max-width:500px) {
+  body {
+    background-color:lightgreen;
+  }
 }
