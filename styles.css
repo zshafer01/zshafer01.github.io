@@ -1,3 +1,31 @@
+h1 {
+	font-style:helvetica;
+	font-weight:bold;
+	font-size: 48px;
+}
+p.Beer {
+	background-color:orange;
+}
+p.Bev {
+	background-color:Dodgerblue;
+	font-style:times new roman;
+}
 body {
-	background-color: red;
+	background-color: grey;
+	padding:20px;
+	background-image:url(Milwaukee_City.jpg);
+}
+img {
+	border:2px solid;
+	border-radius:25px;
+	margin-left:4%;
+}
+table {
+	margin-left:5%;
+}
+ul {
+	margin-left:3.3%;
+}
+#title {
+	border:2px Solid;
 }
